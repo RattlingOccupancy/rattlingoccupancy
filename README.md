@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there
 
-## I'm a Curious Learner & AI Enthusiast
+## I'm a Curious Learner and wanted to build real-world problems solutions
 
 
 
@@ -8,7 +8,6 @@
 
 * Machine Learning & Deep Learning
 * NLP, RAG (Retrieval-Augmented Generation) systems
-* Scalable AI applications & real-world problem solving
 
 ---
 
